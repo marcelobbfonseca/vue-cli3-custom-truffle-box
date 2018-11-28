@@ -1,6 +1,8 @@
 # vue-truffle-box
 
-### This Version comes with vuex, routers and Mocha for unit test.
+This Version comes with vuex, routers and Mocha for unit test.
+For simplified version go to marcelobbfonseca/vue-cli3-truffle-box.
+
 
 This project is a truffle box for vue-cli3. Truffle Boxes are helpful boilerplates that allow you to work with the Ethereum Virtual Machine (EVM) and focus on what makes your dapp unique. In addition to Truffle, Truffle Boxes can contain other helpful modules, Solidity contracts & libraries, front-end views and more; all the way up to complete example dapps.
 
@@ -22,7 +24,7 @@ this project uses:
 Now you just have to run this to start a new project. easy peasy lemon queezy:
 
 ```
-truffle unbox marcelobbfonseca/vue-cli3-truffle-box
+truffle unbox marcelobbfonseca/vue-cli3-custom-truffle-box
 ```
 
 ## Commands list:
