@@ -7,6 +7,11 @@ cache:
 node_js:
   - '11'
 
+before_script:
+  - npm install -g @vue/cli
+  - npm install -g truffle
+  - npm install
+
 branches:
   only:
   - master
@@ -14,3 +19,7 @@ branches:
 script:
    - 'if [ "$TRAVIS_PULL_REQUEST" != "false" ]; then bash ./travis/run_on_pull_requests; fi'
    - 'if [ "$TRAVIS_PULL_REQUEST" = "false" ]; then bash ./travis/run_on_non_pull_requests; fi'
+ 
+after_success:
+   - truffle test
+   - npm run test:unit
