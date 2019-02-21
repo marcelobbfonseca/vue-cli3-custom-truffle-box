@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/marcelobbfonseca/vue-cli3-custom-truffle-box.svg?branch=master)](https://travis-ci.com/marcelobbfonseca/vue-cli3-custom-truffle-box)
+
 # vue-truffle-box
 
 This Version comes with vuex, routers and Mocha for unit test.

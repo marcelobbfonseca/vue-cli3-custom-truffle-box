@@ -17,5 +17,5 @@ branches:
   - master
 
 script:
-   - truffle test
+
    - npm run test:unit
