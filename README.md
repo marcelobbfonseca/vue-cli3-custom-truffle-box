@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/marcelobbfonseca/vue-cli3-custom-truffle-box.svg?branch=master)](https://travis-ci.com/marcelobbfonseca/vue-cli3-custom-truffle-box)[![npm version](https://badge.fury.io/js/npm.svg)](https://badge.fury.io/js/npm)
+[![Build Status](https://travis-ci.com/marcelobbfonseca/vue-cli3-custom-truffle-box.svg?branch=master)](https://travis-ci.com/marcelobbfonseca/vue-cli3-custom-truffle-box)[![npm version](https://badge.fury.io/js/npm.svg)](https://badge.fury.io/js/npm)[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 # vue-truffle-box
 
