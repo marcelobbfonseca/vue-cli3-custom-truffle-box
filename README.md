@@ -1,4 +1,5 @@
-[![Build Status](https://travis-ci.com/marcelobbfonseca/vue-cli3-custom-truffle-box.svg?branch=master)](https://travis-ci.com/marcelobbfonseca/vue-cli3-custom-truffle-box)[![npm version](https://badge.fury.io/js/npm.svg)](https://badge.fury.io/js/npm)[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) [![Greenkeeper badge](https://badges.greenkeeper.io/marcelobbfonseca/vue-cli3-custom-truffle-box.svg)](https://greenkeeper.io/)
+[![Build Status](https://travis-ci.com/marcelobbfonseca/vue-cli3-custom-truffle-box.svg?branch=master)](https://travis-ci.com/marcelobbfonseca/vue-cli3-custom-truffle-box) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) [![Greenkeeper badge](https://badges.greenkeeper.io/marcelobbfonseca/vue-cli3-custom-truffle-box.svg)](https://greenkeeper.io/)
+
 
 # vue-truffle-box
 
