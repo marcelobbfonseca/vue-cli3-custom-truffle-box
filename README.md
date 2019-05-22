@@ -19,11 +19,6 @@ npm install -g @vue/cli
 npm install -g truffle
 ```
 
-this project uses:
-
-	Vue 3.1.3
-	Truffle 4.1.14
-
 Now you just have to run this to start a new project. easy peasy lemon queezy:
 
 ```
